@@ -1,0 +1,335 @@
+[
+  {
+    "name": "Sun",
+    "image": "assets/images/sun.png",
+    "model": "assets/models/sun.glb",
+    "title": "The Sun: Our Solar System's Star",
+    "about": "The Sun is the heart of our solar system, a massive ball of plasma that provides heat, light, and energy to everything within its gravitational pull. Its immense size and temperature are fueled by nuclear fusion, a process that combines hydrogen atoms into helium, releasing vast amounts of energy. The Sun's magnetic field, which is constantly changing, influences solar activity like sunspots and solar flares, affecting space weather and potentially disrupting Earth-based technologies.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "0 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "600–864 hours"
+      },
+      {
+        "label": "Orbital period",
+        "value": "Not applicable"
+      },
+      {
+        "label": "Mean radius",
+        "value": "695,700 km"
+      },
+      {
+        "label": "Mass",
+        "value": "1.989 × 10^30 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "274 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "6.08 × 10^12 km²"
+      }
+    ]
+  },
+  {
+    "name": "Mercury",
+    "image": "assets/images/mercury.png",
+    "model": "assets/models/mercury.glb",
+    "title": "Mercury: The Closest Planet",
+    "about": "Mercury is the smallest planet in our solar system and the closest to the Sun. Its rocky, cratered surface records billions of years of impacts. With only a thin exosphere, the planet experiences extreme temperature changes between day and night. Mercury completes an orbit in about 88 Earth days, while a full day-night cycle lasts about 176 Earth days.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "57,909,227 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "1,407.60 hours"
+      },
+      {
+        "label": "Orbital period",
+        "value": "0.24 Earth years"
+      },
+      {
+        "label": "Mean radius",
+        "value": "2,439.70 km"
+      },
+      {
+        "label": "Mass",
+        "value": "3.301 × 10^23 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "3.7 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "7.48 × 10^7 km²"
+      }
+    ]
+  },
+  {
+    "name": "Venus",
+    "image": "assets/images/venus.png",
+    "model": "assets/models/venus.glb",
+    "title": "Venus: Earth's Toxic Twin",
+    "about": "Venus is often referred to as Earth's twin due to its similar size and composition. However, its thick atmosphere, composed primarily of carbon dioxide, traps heat, making it the hottest planet in our solar system. This greenhouse effect has created a hostile environment with temperatures hot enough to melt lead. Venus is also shrouded in a thick layer of sulfuric acid clouds, which reflect sunlight and give it a yellowish appearance.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "108,209,072 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "5,832.20 hours (retrograde)"
+      },
+      {
+        "label": "Orbital period",
+        "value": "0.62 Earth years"
+      },
+      {
+        "label": "Mean radius",
+        "value": "6,051.80 km"
+      },
+      {
+        "label": "Mass",
+        "value": "4.867 × 10^24 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "8.87 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "4.60 × 10^8 km²"
+      }
+    ]
+  },
+  {
+    "name": "Earth",
+    "image": "assets/images/earth.png",
+    "model": "assets/models/earth.glb",
+    "title": "Earth: Our Blue Marble",
+    "about": "Earth is the only known planet in the universe that supports life. Its unique combination of factors, including liquid water, a breathable atmosphere, and a suitable distance from the Sun, has created the ideal conditions for the development of complex organisms. Earth's magnetic field protects it from harmful solar radiation, and its atmosphere helps to regulate temperature and weather patterns.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "149,598,026 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "23.93 hours"
+      },
+      {
+        "label": "Orbital period",
+        "value": "1 Earth year"
+      },
+      {
+        "label": "Mean radius",
+        "value": "6,371 km"
+      },
+      {
+        "label": "Mass",
+        "value": "5.972 × 10^24 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "9.81 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "5.10 × 10^8 km²"
+      }
+    ]
+  },
+  {
+    "name": "Mars",
+    "image": "assets/images/mars.png",
+    "model": "assets/models/mars.glb",
+    "title": "Mars: The Red Planet",
+    "about": "Mars, often called the Red Planet due to its reddish hue caused by iron oxide, is a cold, rocky world with a thin atmosphere. It has polar ice caps, ancient riverbeds, and evidence of past volcanic activity, suggesting that it once had a warmer, wetter climate. Mars is a prime target for exploration due to its potential for past or present life, and NASA's Perseverance rover is currently searching for signs of ancient microbial life on the planet's surface.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "227,943,824 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "24.62 hours"
+      },
+      {
+        "label": "Orbital period",
+        "value": "1.88 Earth years"
+      },
+      {
+        "label": "Mean radius",
+        "value": "3,389.50 km"
+      },
+      {
+        "label": "Mass",
+        "value": "6.39 × 10^23 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "3.71 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "1.44 × 10^8 km²"
+      }
+    ]
+  },
+  {
+    "name": "Jupiter",
+    "image": "assets/images/jupiter.png",
+    "model": "assets/models/jupiter.glb",
+    "title": "Jupiter: The Gas Giant",
+    "about": "Jupiter is the largest planet in our solar system, a gas giant composed primarily of hydrogen and helium. Its Great Red Spot, a massive storm that has been raging for centuries, is a testament to its turbulent atmosphere. Jupiter has a strong magnetic field and numerous moons, including Europa, which is believed to have a subsurface ocean that could potentially harbor life.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "778,547,669 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "9.92 hours"
+      },
+      {
+        "label": "Orbital period",
+        "value": "11.86 Earth years"
+      },
+      {
+        "label": "Mean radius",
+        "value": "69,911 km"
+      },
+      {
+        "label": "Mass",
+        "value": "1.898 × 10^27 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "24.79 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "6.14 × 10^10 km²"
+      }
+    ]
+  },
+  {
+    "name": "Saturn",
+    "image": "assets/images/saturn.png",
+    "model": "assets/models/saturn.glb",
+    "title": "Saturn: The Ringed Planet",
+    "about": "Saturn is best known for its spectacular rings, which are composed of countless ice particles and rocks. It is a gas giant with a composition similar to Jupiter, but its rings and moons give it a distinct appearance. Saturn's largest moon, Titan, has a thick atmosphere and is the only known celestial body outside of Earth with liquid lakes and rivers.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "1,426,666,422 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "10.66 hours"
+      },
+      {
+        "label": "Orbital period",
+        "value": "29.46 Earth years"
+      },
+      {
+        "label": "Mean radius",
+        "value": "58,232 km"
+      },
+      {
+        "label": "Mass",
+        "value": "5.683 × 10^26 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "10.44 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "4.26 × 10^10 km²"
+      }
+    ]
+  },
+  {
+    "name": "Uranus",
+    "image": "assets/images/uranus.png",
+    "model": "assets/models/uranus.glb",
+    "title": "Uranus: The Tilted Planet",
+    "about": "Uranus is an ice giant with a unique axial tilt, causing its seasons to be extreme. It is surrounded by faint rings and has numerous moons, including Miranda, known for its chaotic terrain. Uranus's atmosphere is composed primarily of hydrogen, helium, and methane, giving it a pale blue color.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "2,870,990,000 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "17.24 hours (retrograde)"
+      },
+      {
+        "label": "Orbital period",
+        "value": "84.01 Earth years"
+      },
+      {
+        "label": "Mean radius",
+        "value": "25,362 km"
+      },
+      {
+        "label": "Mass",
+        "value": "8.681 × 10^25 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "8.69 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "8.08 × 10^9 km²"
+      }
+    ]
+  },
+  {
+    "name": "Neptune",
+    "image": "assets/images/neptune.png",
+    "model": "assets/models/neptune.glb",
+    "title": "Neptune: The Distant World",
+    "about": "Neptune is the farthest planet from the Sun and is another ice giant. Its atmosphere is similar to Uranus, but it is a deeper blue color due to the presence of methane. Neptune has several moons, including Triton, which orbits the planet in a retrograde direction and is believed to be a captured Kuiper Belt object.",
+    "facts": [
+      {
+        "label": "Distance from Sun",
+        "value": "4,498,252,900 km"
+      },
+      {
+        "label": "Rotation period",
+        "value": "16.11 hours"
+      },
+      {
+        "label": "Orbital period",
+        "value": "164.8 Earth years"
+      },
+      {
+        "label": "Mean radius",
+        "value": "24,622 km"
+      },
+      {
+        "label": "Mass",
+        "value": "1.024 × 10^26 kg"
+      },
+      {
+        "label": "Gravity",
+        "value": "11.15 m/s²"
+      },
+      {
+        "label": "Approximate surface area",
+        "value": "7.62 × 10^9 km²"
+      }
+    ]
+  }
+]
